@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("this is a demo for build trigger");
+        System.out.println("testing for poll scm");
     }
 }
